@@ -1,0 +1,89 @@
+{
+	"beers": [
+		{
+			"brewer": "New Holland",
+			"beer": "Dragon's Milk",
+			"style": "Stout"
+		},
+		{
+			"brewer": "The Bruery",
+			"beer": "White Oak",
+			"style": "Wheatwine"
+		},
+		{
+			"brewer": "Firestone Walker",
+			"beer": "Wookey Jack",
+			"style": "Black IPA"
+		},
+		{
+			"brewer": "North Coast",
+			"beer": "Pranqster",
+			"style": "Belgian Golden Ale"
+		},
+		{
+			"brewer": "Duclaw",
+			"beer": "Serum",
+			"style": "Double IPA"
+		},
+		{
+			"brewer": "Lost Rhino",
+			"beer": "Birth of Ace",
+			"style": "Wild IPA"
+		},
+		{
+			"brewer": "Epic",
+			"beer": "Hopulent IPA",
+			"style": "IPA"
+		},
+		{
+			"brewer": "Great Lakes",
+			"beer": "Silver and Gold",
+			"style": "India Pale lager"
+		},
+		{
+			"brewer": "Smuttynose",
+			"beer": "Baltic Porter",
+			"style": "Baltic Porter"
+		},
+		{
+			"brewer": "Bear Republic",
+			"beer": "Racer 5",
+			"style": "IPA"
+		},
+		{
+			"brewer": "Founders",
+			"beer": "Porter",
+			"style": "Porter"
+		},
+		{
+			"brewer": "Lost Coast",
+			"beer": "Tangerine Wheat",
+			"style": "Fruit beer"
+		},
+		{
+			"brewer": "Dogfish Head",
+			"beer": "Festina Peche",
+			"style": "Fruit beer"
+		},
+		{
+			"brewer": "Jack's",
+			"beer": "Apple Cider",
+			"style": "Cider"
+		},
+		{
+			"brewer": "St. George",
+			"beer": "Summer Ale",
+			"style": "Blonde"
+		},
+		{
+			"brewer": "Devil's Backbone",
+			"beer": "Vienna Lager",
+			"style": "Lager"
+		},
+		{
+			"brewer": "Lost Rhino",
+			"beer": "New River Pale Ale",
+			"style": "Pale Ale"
+		},
+	]
+}
