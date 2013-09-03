@@ -11,12 +11,13 @@ function handle_location(pos) {
 			for (var venue in data.response.venues) {
 				venues += data.response.venues[venue].name + "</br>";
 			}
-			$('#main').text(venues);
+			$('#locations').text(venues);
 			console.log("Got venues: " + data);
 		});
 }
 
 function err(e) {
+	$('#locations').text("Could not get locations from Foursquare");
     console.error(e);
 }
 
